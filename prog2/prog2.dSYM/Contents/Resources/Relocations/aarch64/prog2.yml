@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jayc/ipl2026/prog2/prog2'
+relocations:     []
+...
